@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/home_page"
+        android:icon="@drawable/homepage_selector"/>
+    <item
+        android:title="@string/old_practice"
+        android:icon="@drawable/oldpractice_selector"/>
+    <item
+        android:title="@string/time"
+        android:icon="@drawable/time_selector"/>
+    <item
+        android:title="@string/personal"
+        android:icon="@drawable/personal_selector"/>
+</menu>

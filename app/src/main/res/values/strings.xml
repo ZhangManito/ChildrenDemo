@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinishAndroid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_page">首页</string>
+    <string name="old_practice">故事泉</string>
+    <string name="time">时光圈</string>
+    <string name="personal">个人中心</string>
+    <string name="hintText">搜索游戏物品或游戏名称</string>
+</resources>
