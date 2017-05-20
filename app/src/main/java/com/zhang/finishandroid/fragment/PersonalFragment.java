@@ -12,7 +12,7 @@ import com.zhang.finishandroid.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class PersonalFragment extends Fragment {
+public class PersonalFragment extends BaseFragment {
 
 
     public PersonalFragment() {

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UserDefinedView">
+        <!--导航栏图片-->
+        <attr name="image_header" format="reference"/>
+        <!--导航栏文字-->
+        <attr name="user_text" format="string"/>
+        <!--导航栏分割线-->
+        <attr name="is_divider_visibility" format="boolean"/>
+    </declare-styleable>
+</resources>

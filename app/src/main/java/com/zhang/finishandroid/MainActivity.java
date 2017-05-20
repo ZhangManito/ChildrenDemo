@@ -12,7 +12,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 import com.zhang.finishandroid.fragment.HomePageFragment;
 import com.zhang.finishandroid.fragment.OldPracticeFragment;
